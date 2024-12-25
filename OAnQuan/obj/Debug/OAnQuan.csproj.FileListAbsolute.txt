@@ -1,0 +1,15 @@
+E:\New folder (2)\OAnQuan\bin\Debug\OAnQuan.exe.config
+E:\New folder (2)\OAnQuan\bin\Debug\OAnQuan.exe
+E:\New folder (2)\OAnQuan\bin\Debug\OAnQuan.pdb
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.csproj.AssemblyReference.cache
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.frmChonHuongDi.resources
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.frmHuongDan.resources
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.frmOAnQuan.resources
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.frmOAnQuan2.resources
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.frmOAnQuan3.resources
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.frmTrangChu.resources
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.Properties.Resources.resources
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.csproj.GenerateResource.cache
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.csproj.CoreCompileInputs.cache
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.exe
+E:\New folder (2)\OAnQuan\obj\Debug\OAnQuan.pdb
